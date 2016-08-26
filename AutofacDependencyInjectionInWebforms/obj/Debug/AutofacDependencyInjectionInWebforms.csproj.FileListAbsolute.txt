@@ -1,0 +1,9 @@
+c:\users\ske\documents\visual studio 2013\Projects\AutofacDependencyInjectionInWebforms\AutofacDependencyInjectionInWebforms\bin\AutofacDependencyInjectionInWebforms.dll.config
+c:\users\ske\documents\visual studio 2013\Projects\AutofacDependencyInjectionInWebforms\AutofacDependencyInjectionInWebforms\bin\AutofacDependencyInjectionInWebforms.dll
+c:\users\ske\documents\visual studio 2013\Projects\AutofacDependencyInjectionInWebforms\AutofacDependencyInjectionInWebforms\bin\AutofacDependencyInjectionInWebforms.pdb
+c:\users\ske\documents\visual studio 2013\Projects\AutofacDependencyInjectionInWebforms\AutofacDependencyInjectionInWebforms\bin\Autofac.dll
+c:\users\ske\documents\visual studio 2013\Projects\AutofacDependencyInjectionInWebforms\AutofacDependencyInjectionInWebforms\bin\Autofac.Integration.Web.dll
+c:\users\ske\documents\visual studio 2013\Projects\AutofacDependencyInjectionInWebforms\AutofacDependencyInjectionInWebforms\bin\Autofac.xml
+c:\users\ske\documents\visual studio 2013\Projects\AutofacDependencyInjectionInWebforms\AutofacDependencyInjectionInWebforms\bin\Autofac.Integration.Web.xml
+c:\users\ske\documents\visual studio 2013\Projects\AutofacDependencyInjectionInWebforms\AutofacDependencyInjectionInWebforms\obj\Debug\AutofacDependencyInjectionInWebforms.dll
+c:\users\ske\documents\visual studio 2013\Projects\AutofacDependencyInjectionInWebforms\AutofacDependencyInjectionInWebforms\obj\Debug\AutofacDependencyInjectionInWebforms.pdb
